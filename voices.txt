@@ -1,0 +1,111 @@
+Nappy rash is really common, and lots of mums ask about this.
+Would you like me to send you a lullaby playlist?
+
+---
+
+Neospeech
+
+http://neospeech.com/
+
+Bridget (UK)
+
+neospeech-bridget-01.mp3
+neospeech-bridget-02.mp3
+
+Beth (US)
+
+neospeech-beth-01.mp3
+neospeech-beth-02.mp3
+
+Julie (US) ++
+
+neospeech-julie-01.mp3
+neospeech-julie-02.mp3
+
+---
+
+NaturalReader
+
+https://www.naturalreaders.com/
+
+Audrey (UK)
+
+naturalreaders-audrey-01.mp3
+naturalreaders-audrey-02.mp3
+
+Rachel (UK)
+
+naturalreaders-rachel-01.mp3
+naturalreaders-rachel-02.mp3
+
+
+---
+
+Oddcast
+
+http://www.oddcast.com/home/demos/tts/tts_example.php
+
+Catherine (UK)
+
+oddcast-tts-catherine-01.mp3
+oddcast-tts-catherine-02.mp3
+
+Serena (UK)
+
+oddcast-tts-serena-01.mp3
+oddcast-tts-serena-02.mp3
+
+
+---
+
+CereProc
+
+https://www.cereproc.com
+
+Sarah (UK)
+
+cerevoice-sarah-01.mp3
+cerevoice-sarah-02.mp3
+
+---
+
+Reallusiom
+
+http://tts.reallusion.com/en/Home/TTS
+
+Female 1 (UK)
+
+reallusion-uk-female1-01.mp3
+reallusion-uk-female1-02.mp3
+
+Female 2 (UK)
+
+reallusion-uk-female2-01.mp3
+reallusion-uk-female2-02.mp3
+
+Female 1 (US)
+
+reallusion-us-female1-01.mp3
+reallusion-us-female1-02.mp3
+
+
+---
+
+Watson Text to Speech
+
+https://text-to-speech-demo.mybluemix.net/
+
+Kate (UK)
+
+watson-kate-01.mp3
+watson-kate-02.mp3
+
+Lisa (US)
+
+watson-lisa-01.mp3
+watson-lisa-02.mp3
+
+
+
+
+
